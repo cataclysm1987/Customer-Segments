@@ -1,4 +1,4 @@
-# Content: Unsupervised Learning
+# Unsupervised Learning Project for Eric Conklin on Udacity.com
 ## Project: Creating Customer Segments
 
 ### Install
